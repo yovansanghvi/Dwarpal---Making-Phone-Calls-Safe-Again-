@@ -53,7 +53,7 @@ Clone or download this repository, open a terminal inside the project folder, an
 python main.py
 ```
 
-*(Replace `main.py` with your primary entry-point filename if named differently in your uploaded folder.)*
+
 
 1. Wait for the local models (`Indic-Transcribe-Flex`, `mDeBERTa-v3`, and `Qwen2.5-1.5B`) to load into memory.
 2. Start or play an incoming call through your configured audio input channel.
