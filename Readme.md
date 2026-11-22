@@ -3,7 +3,9 @@
 **Dwarpal** is an offline-capable, real-time voice-call scam detection system that listens to incoming call audio, transcribes multilingual speech on the fly, and flags social-engineering and vishing tactics such as fake authority threats, false urgency, secrecy isolation, OTP extraction, and coerced money transfers before the victim falls into the trap.
 
 ---
+# Demo Link - https://www.youtube.com/watch?v=FWiTNgiJE4A
 
+---
 ## Key Features
 
 - **Caller-Only Voice Isolation:** Captures and analyzes only the incoming caller's voice stream while ignoring the recipient's own microphone speech.
